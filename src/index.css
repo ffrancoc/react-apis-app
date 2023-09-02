@@ -5,7 +5,8 @@
   padding: 0px;  
 }
 
-.app-container {
+.app-container,
+.base-container {
   align-items: center;
   display: flex;
   height: 100vh;
